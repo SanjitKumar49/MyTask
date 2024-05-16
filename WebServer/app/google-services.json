@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "496579715199",
+    "firebase_url": "https://myapps-bc655-default-rtdb.firebaseio.com",
+    "project_id": "myapps-bc655",
+    "storage_bucket": "myapps-bc655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496579715199:android:e4fd003afe7313dfd49f4a",
+        "android_client_info": {
+          "package_name": "com.example.webserver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-OhxdVb9Sr8pPnrGEzMKmP2rDWAWGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496579715199:android:c98f4293784d6d9dd49f4a",
+        "android_client_info": {
+          "package_name": "com.sanjit49.cheatingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-OhxdVb9Sr8pPnrGEzMKmP2rDWAWGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496579715199:android:55a4b83376dbc190d49f4a",
+        "android_client_info": {
+          "package_name": "com.sanjit49.demo1forfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-OhxdVb9Sr8pPnrGEzMKmP2rDWAWGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496579715199:android:0dc2a9374a65af24d49f4a",
+        "android_client_info": {
+          "package_name": "com.sanjit49.gatepass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-OhxdVb9Sr8pPnrGEzMKmP2rDWAWGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496579715199:android:b69db4a3243733edd49f4a",
+        "android_client_info": {
+          "package_name": "com.sanjit49.studenthelper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-OhxdVb9Sr8pPnrGEzMKmP2rDWAWGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496579715199:android:ad0231909b2f5830d49f4a",
+        "android_client_info": {
+          "package_name": "com.sanjit49.textfetchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-OhxdVb9Sr8pPnrGEzMKmP2rDWAWGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
